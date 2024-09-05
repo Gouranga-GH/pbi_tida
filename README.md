@@ -53,7 +53,7 @@ This project is a comprehensive sales performance analysis for Twiggy Instamart,
 
 The Power BI dashboard provides an interactive and comprehensive view of Twiggy Instamart's sales data and performance metrics. Below is a preview of the Power BI dashboard:
 
-![Dashboard Preview](./pbi_tida.png)
+![Dashboard Preview](screenshots/pbi_tida.png)
 
 ## Data Source
 
